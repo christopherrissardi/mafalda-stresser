@@ -2,9 +2,10 @@ from time import sleep
 from ddos import Attack
 from getpass import getpass as hinput
 from colors import error, stage, blue, red, white, purple
-
+from banner import banner_mafalda
 
 def main():
+    banner_mafalda()
     ip = input(stage(f"Enter the IP to DDOS {purple}->{red} ", "?"))
 
     try:
