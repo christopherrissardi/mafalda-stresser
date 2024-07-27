@@ -1,7 +1,8 @@
 ###### Mafalda Stresser is a DDoS for educational purposes only.
 
 
-![[Mafaldona.png]]
+![Mafaldona](https://github.com/user-attachments/assets/d0fd4448-17d1-4e0d-8b37-75f2fd622bf2)
+
 
 
 ## 📄 Disclaimer:
