@@ -20,8 +20,8 @@ def banner_mafalda():
 {purple}    ., `.     `.        _,-.-'      |    ____)  {purple}   | | | | | | (_| | || (_| | | (_| | (_| | {white} \__ \ |_| | |  __/\__ \__ \  __/ |  
 {purple}    \ `..`------;--===='   |        |""`   ,'   {purple}   |_| |_| |_|\__,_|_| \__,_|_|\__,_|\__,_| {white} |___/\__|_|  \___||___/___/\___|_|
 {purple}  ___) ,'.     (   / o\_  ,'`.      \\__,'"                                                               
-{purple} (__     |      Y''| o |""    `.     |                                                                  {white}  Coded By {purple}Victor Hugo    
-{purple}(____  ) |     /   `---'        `.....                                                                  {white}      Edited By {purple}offalien
+{purple} (__     |      Y''| o |""    `.     |                                                                  {white}  Coded By {purple}Victor Hugo Nogueira   
+{purple}(____  ) |     /   `---'        `.....                                                                  {white}      Edited By {purple}Christopher Rissardi
 {purple} (____  ,|   .'                  _:.                                       
 {purple}      "" |  /__          _,,.,+''                                          
 {purple}         ```` /`'''''''|'      ,                                                                                     
